@@ -1,0 +1,49 @@
+body {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        margin: 0;
+        font-size: 100%;
+        font-weight: bold;
+        color: #FFF;
+        font-size:13px
+		 background-color:#10b1df;
+
+        }
+
+.container {
+        width: 828px;
+        height:15px;
+        padding: 10px;
+        margin: 3px 0 0px 0;
+        border: 0px solid #ccc;
+        background-color:#10b1df;
+}
+
+
+
+#navPyra {
+        margin: 0;
+        padding: 0 0 20px 20px;
+        border-bottom: 1px solid #9FB1BC;
+}
+
+#navPyra li {
+        margin: 0;
+        padding: 0;
+        display: inline;
+        list-style-type: none;
+}
+
+#navPyra a:link, #navPyra a:visited {
+        float: left;
+        font-size: 13px;
+        line-height: 14px;
+        font-weight: bold;
+        padding: 0 12px 6px 12px;
+        text-decoration: none;
+        color: #ffc400;
+}
+
+#navPyra a:link.active, #navPyra a:visited.active, #navPyra a:hover {
+        color: #fff;
+         background-color:#10b1df;
+}

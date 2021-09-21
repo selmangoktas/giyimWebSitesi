@@ -1,0 +1,1489 @@
+#body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	
+}
+#ETKkucukHizliMenu {
+  
+  width:140px;
+  min-height: 30px;
+  margin-left: 20px;
+  margin-top: 3px;
+  float:left;
+   
+
+	
+}
+#ETKsayfadaHaberAcma{
+  width:670px;
+  min-height:50px;
+  margin-left: 0px;
+  margin-top:3px;
+  margin-right:0px;
+  float: left;
+
+}
+
+
+#YanhizliMenu {
+  width:155px;
+  min-height: 30px;
+  margin-left: 0px;
+  margin-right:5px;
+  margin-top: 2px;
+  float: left;
+}
+#acilirMenusagaGetirHaci {
+  width: 155px;
+ min-height: 30px;
+  margin-left: 2px;
+  margin-top: 2px;
+  float: left;
+}
+#TabMenuSolaGetirHaci {
+  width: 690px;
+  min-height: 30px;
+  margin-left: 1px;
+  margin-top: 1px;
+  float: left;
+}
+#tabMenuHaber {
+  width: 685px;
+  min-height: 30px;
+  margin-left: 5px;
+  margin-top:2px;
+ 
+   float: left;
+ 
+}
+#kayanMenuSolaGetirHaci {
+  width: 505px;
+  min-height: 230px;
+  margin-left: 0px;
+  margin-top: 0px;
+  float: left;
+ 
+}
+
+#kayanMenu{
+    
+  width: 505px;
+  min-height: 200px;
+  margin-left: 2px;
+  margin-top: 0px;
+  float: left;
+  padding:-1px;
+  z-index:-1;
+ 
+}
+
+
+
+#sagaGetirHaci {
+  width: 345px;
+ min-height: 150px;
+  margin-left: 0px;
+  margin-top: 0px;
+  float: left;
+
+}
+
+
+#ustTumCizgi {
+	position:relative;
+	height:2px;
+	width:100%;
+	margin-left:0px;
+	margin-top:0px;
+	float:left;
+	background-color:#036;
+	left: auto;
+}
+#tumCizgi { 
+	
+	position:relative;
+	height:2px;
+	width:980px;
+	margin-left:0px;
+	margin-top:0px;
+	float:left;
+/*	background-color:#036;*/
+	border:#036 1px groove;
+left: auto;	 
+}
+
+#tabloyapmak{
+  width: 100%;
+  margin-left: 0px;
+  margin-top:0;
+   min-height:40px; 
+   float: left;
+}
+
+#ustLogoTabloYapmak{
+  width: 100%;
+  margin-left: 0px;
+  margin-top:0;
+  float: left;
+  min-height:40px;
+
+  
+  
+  
+}
+
+#enAltatabloyapmak{
+	width: 850px;
+	min-height:70px;
+	margin-left: 0;
+	margin-top:10px;
+	background-image:url(../images/ayaklar.jpg);
+	background-repeat:no-repeat;
+	background-position:top;
+	float: left;
+  
+}
+
+
+#kismenCizGelsin{ 
+	height:3px;
+	width:980;
+	margin-top:0;
+	background-color:#0075b1;
+
+}
+#sayfayaOrtalama{
+	width: 850px;
+	height:auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:auto;
+	/*color: #036;
+	border-top-color:#036;
+	border-top-width:5px;*/
+}
+
+
+#centerColumn {
+  width: 470px;
+/*min-height:572px;*/
+  margin-top: 13px;
+  float: left;
+/*border-left:#CCC solid 1px;
+    border-right:#CCC solid 1px;*/
+}
+
+#rightColumn {
+	min-width: 200px;
+	min-height: 100px;
+	margin-left: 0px;
+	margin-top: 0px;
+	float: right;
+}
+
+#leftColumn {
+min-width: 90px;
+	min-height: 230px;
+	margin-left: 0px;
+	margin-top: 0px;
+	  float: right;
+}
+#etkinliklerBaslik{
+  width: 280px;
+  height: 24px;
+  border-bottom: #036 solid 3px;
+  padding-top: 10px;
+}
+
+#etkinliklerBaslik2{
+	min-width: 90px;
+	height: 12px;
+	padding-top: 10px;
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+	border-bottom-color: #036;
+}
+
+.tumuLink {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 11px;
+  color: #ffad05 ;
+  margin-top: 1px;
+}
+
+#contentColumn a {
+  color: #000000;
+}
+
+#haberTumu {
+  width: 286px;
+  border-bottom: #ffad05  solid 1px;
+  border-top: #ffad05  solid 1px;
+  margin-left: 0px;
+  margin-top: 5px;
+}
+
+#haberTumu a{
+  text-decoration: none;
+}
+
+#habersol{
+/* width: 320px;*/
+/*min-height:395px;*/
+  margin-left: 23px;
+  margin-top: 15px;
+/*border-right:#CCC solid 1px;*/
+  float: left;
+}
+
+#habersag{
+  width: 120px;
+/*min-height:395px;*/
+/*margin-top:5px;*/
+  float: left;
+  clear: right;
+  padding-left: 15px;
+}
+
+#haberSagTumu {
+  width: 140px;
+  height: 18px;
+  padding-top: 4px;
+  border-bottom: #ffad05  solid 1px;
+  border-top: #ffad05  solid 1px;
+  margin-left: 12px;
+  margin-top: 10px;
+}
+
+#columnImage{
+  width: 190px;
+  min-height: 93px;
+  margin-left: -5px;
+  margin-top: 5px;
+}
+
+#habersagImage {
+  width: 148px;
+  margin-top: -10px;
+  margin-left: 10px;
+}
+
+.rightColumnText {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 11px;
+  color: #666;
+  list-style-image: url(../../images/bulletmor.png);
+  list-style-position: outside;
+  margin-left: -25px;
+  margin-bottom: 7px;
+}
+
+#altBanner {
+  width: 460px;
+  height: 60px;
+  float: left;
+  margin-left: 23px;
+/*background-image: url(../../images/altbannerBg.png);
+  background-repeat: repeat-x;
+  margin-top: 10px;*/
+}
+
+.ustbanner1 {
+  margin-left: 16px;
+  margin-top: 6px;
+}
+
+.ustbanner2{
+  margin-left: 5px;
+  margin-top: 6px;
+}
+
+.ustIconText {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 11px;
+  color: #666;
+  margin-left: 7px;
+}
+
+.altbannerimages {
+  list-style-type: none;
+  margin-left: -25px;
+}
+
+.altbannerimages li {
+  float: left;
+  margin-left: 15px;
+}
+
+#habersolcontent {
+/*width: 319px;*/}
+
+#habersagcontent {
+  min-height: 158px;
+  width: 120px;
+}
+
+
+
+#headerBg {
+  width: 100%;
+/*height:146px;*/
+  background-image: url(../../images/headerBg.jpg);
+  background-repeat: repeat-x;
+}
+
+#header {
+	width: 850px;
+	min-height: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:auto;
+	color: #D5D1C5;
+  
+}
+
+#logo {
+	width: 850px;
+	min-height:135px;
+	float:left;
+	margin-left: 0px;
+	margin-top: -5px;
+	z-index:-1;
+	position:relative;
+	
+}
+#logoCizgi{
+	position:absolute;
+	width:833px;
+	height:15px;
+	float:left;
+	margin-left: 0px;
+	margin-top: 0px;
+	left: 136px;
+	top: 88px;
+	
+	
+}
+#ustMiniButon {
+	width:100%;
+	margin-left: 0px;
+	margin-top: -5px;
+	border-top-color:#036;
+	border-top-width:0px;
+	float:right;
+	border-top:#036;
+	border-top-style:inset;
+	border-top-width:7px;
+
+	
+}
+
+
+
+
+#altt {
+  bottom: 0;
+  margin-top: 10px;
+}
+
+#contentColumn {
+  width: 750px;
+/*min-height:572px;*/
+  margin: 13px 0 20px 0;
+  float: left;
+  border-left: #CCC solid 1px;
+  border-right: #CCC solid 1px;
+}
+
+#rightColumnContent {
+  width: 202px;
+  min-height: 460px;
+  margin-left: 23px;
+  margin-top: 13px;
+  float: left;
+  border-right-color: #CCC;
+  border-right-style: solid;
+  border-right-width: 1px;
+}
+
+#footerNavBar {
+  width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  clear: both;
+}
+
+#spacer {
+  width: 980px;
+  height: 13px;
+}
+
+#column1 {
+  width: 244px;
+  min-height: 90px;
+  float: left;
+}
+
+#column2 {
+  width: 244px;
+  min-height: 90px;
+  float: left;
+}
+
+#column3 {
+  width: 244px;
+  min-height: 90px;
+  float: left;
+}
+
+#column4 {
+  width: 242px;
+  min-height: 90px;
+  float: left;
+/*border-left:#60C solid 1px;
+    border-right:#60C solid 1px;*/
+}
+
+#footerNavBar ul {
+  border-left: #60C solid 1px;
+}
+
+#footer {
+  width: 980px;
+  min-height: 60px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#footerIcons {
+  background: url(../../images/footerBg.jpg) repeat-x;
+  width: 980px;
+  min-height: 30px;
+  padding-top: 7px;
+  padding-left: 10px;
+}
+
+#footerIcons a {
+  text-decoration: none;
+}
+
+#footerIcons a:hover {
+  text-decoration: underline;
+}
+
+#adres {
+  width: 980px;
+  min-height: 10px;
+  border-bottom: #60C solid 2px;
+}
+
+#rightColumnContent h2{
+  width: 180px;
+  height: 24px;
+  border-bottom: #036 solid 5px;
+  padding-top: 10px;
+  font-family: Verdana, Geneva, sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+  color: #999;
+  vertical-align: baseline;
+}
+
+#yannimageBaslik{
+  width: 180px;
+  height: 19px;
+  border-bottom: #036 solid 2px;
+  padding-top: 2px;
+}
+
+#sporEtkinlikleri{
+  width: 180px;
+  height: 24px;
+  margin-top: 12px;
+  border-bottom: #036 solid 5px;
+  padding-top: 10px;
+}
+
+#etkinlikTumu {
+  width: 280px;
+  padding: 0px;
+  border-bottom: #ffad05  solid 1px;
+  border-top: #ffad05  solid 1px;
+  clear: both;
+}
+
+#etkinlikcontent{
+  width: 280px;
+}
+
+#block-block-16, #block-block-33 {
+  margin: 0;
+  padding: 0;
+}
+
+#block-block-16 .content, #block-block-29 .content, #block-block-33 .content, #block-quicktabs-4 .content, #block-block-41 .content, #block-block-42 .content {
+  margin: 0;
+  padding: 0;
+}
+
+#block-block-41 .content, #block-block-42 .content {
+  line-height: 12px;
+}
+
+#block-block-41 a{
+  color: #999;
+}
+
+#block-block-27 a {
+  text-decoration: none;
+  color: #333333;
+}
+
+#block-block-29 {
+  margin: 10px 0 0 0;
+}
+
+#block-block-16 a,#block-block-26 a,#block-block-30 a, #block-block-33 a, #block-block-39 a, #block-block-40 a {
+  text-decoration: none;
+}
+
+#block-block-26 .content, #block-block-30 .content {
+  margin: 0;
+  line-height: 13px;
+}
+
+#block-block-39 .content,#block-block-40 .content {
+  line-height: 20px;
+  margin: 0;
+}
+
+#block-block-26, #block-block-30, #block-block-39 {
+  line-height: 15px;
+}
+
+#block-block-26 ul, #block-block-30 ul, #block-block-39 ul, #block-block-40 ul {
+  margin: 10px 0 0 30px;
+}
+
+#block-block-26 a, #block-block-30 a, #block-block-39 a, #block-block-40 a {
+  color: #666666;
+}
+
+#block-block-26 a:hover, #block-block-30 a:hover, #block-block-39 a:hover, #block-block-40 a:hover {
+  text-decoration: underline;
+}
+
+#haberBaslik{
+  width: 460px;
+  height: 24px;
+  border-bottom: #036 solid 5px;
+  padding-top: 10px;
+  margin-left: 23px;
+  clear: both;
+}
+
+#bradcrumpbox{
+  width: 706px;
+  height: 20px;
+  border-bottom: #036 solid 1px;
+  padding-top: 10px;
+  margin-left: 23px;
+  clear: both;
+}
+
+.mainTitle {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 13px;
+	color: #036;
+	vertical-align: baseline;
+}
+
+.mainYazi {
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight:normal;
+	font-size: 13px;
+	color: #000;
+	vertical-align: baseline;
+}
+
+
+.bradcrump {
+  font-family: Verdana, Geneva, sans-serif;
+  font-weight: bold;
+  font-size: 10px;
+  color: #ffad05 ;
+  vertical-align: baseline;
+}
+
+.altLink {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 12px;
+  color: #ffad05 ;
+  margin-top: 1px;
+}
+
+.altbaslik {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: #ffad05 ;
+  margin-top: 1px;
+  border-bottom: #ffad05  solid 1px;
+  padding-bottom: 5px;
+}
+
+.altImage {
+  margin-left: -5px;
+  margin-top: 15px;
+}
+
+#contentbox{
+  width: 620px;
+/*min-height:360px;*/
+  margin-left: 60px;
+  margin-top: 15px;
+  float: left;
+}
+
+#rightColumnContent ul li {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 11px;
+  color: #666;
+  list-style-image: url(../../images/bulletmor.png);
+  list-style-position: outside;
+  margin-left: -25px;
+  margin-bottom: 0px;
+}
+
+#rightColumnContent ul li ul {
+  margin-left: 8px;
+}
+
+.content {
+  font-family: Verdana, Geneva, sans-serif;
+  line-height: 23px;
+  font-size: 12px;
+  color: #666;
+  margin-left: 0px;
+  text-align: justify;
+}
+
+.contentbaslik {
+  font-family: Verdana, Geneva, sans-serif;
+  font-weight: bold;
+  line-height: 23px;
+  font-size: 12px;
+  color: #ffad05 ;
+  margin-left: 40px;
+  text-align: justify;
+}
+
+.contentlist {
+  font-family: Verdana, Geneva, sans-serif;
+  line-height: 23px;
+  font-size: 12px;
+  color: #666;
+  margin-left: 25px;
+  text-align: justify;
+  list-style-image: url(../../images/bulletmor.png);
+}
+
+#topNavBar ul li a {
+  color: #000000;
+  background: none;
+  font-family: Verdana;
+  font-size: 12px;
+  text-decoration: none;
+}
+
+#topNavBar ul li li a {
+  color: #333333;
+}
+
+#topNavBar ul li a:hover {
+  text-decoration: underline;
+}
+
+ul.nice-menu ul {
+  border-color: #CCCCCC;
+  border-right: 0 none;
+  border-style: solid none none;
+  border-width: 1px 0 0;
+  left: 0px;
+  margin-right: 0;
+  top: 1.7em;
+}
+
+#block-nice_menus-1 {
+  padding-top: 5px;
+}
+
+#block-nice_menus-1 div.content {
+  margin: 0;
+}
+
+#block-nice_menus-1 ul#nice-menu-1 {
+  padding: 0;
+}
+
+#menu-920, #menu-1057, #menu-1060 {
+  background: none;
+}
+
+.miniIcons {
+  margin-left: -25px;
+  list-style-type: none;
+  margin-top: 6px;
+}
+
+.miniIcons li {
+  margin-bottom:auto;
+  /*3px yaziliydi yukarda*/
+}
+
+.footerIconsList {
+  list-style-type: none;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 12px;
+  color: #ffad05 ;
+  margin-left: -22px;
+}
+
+.footerIconsList li {
+  float: left;
+  margin-left: 20px;
+  margin-top: 8px;
+}
+ 
+.footerIconText {
+  margin-left: -15px;
+}
+
+
+
+#bannerWrapper .block .content, #block-block-20 .content, #block-block-28 .content {
+  margin: 0;
+  padding: 0;
+}
+
+.node .content img {
+  margin: 5px;
+  border: 2px #ECF0F1 solid;
+}
+
+#mainBanner{
+  width: 610px;
+  height: 220px;
+  background-color: #000;
+  float: left;
+  padding: 0;
+  margin-top: 9px;
+}
+
+#virtualTour{
+  width: 357px;
+  height: 102px;
+  float: left;
+  margin-left: 8px;
+}
+
+#hotelBanner{
+  width: 357px;
+  height: 102px;
+  float: left;
+  margin-left: 13px;
+  margin-top: 13px;
+/*background-image: url(../../images/hotelbannerBg.png);
+  background-repeat: repeat-x; */
+}
+
+#hotelBanner img {
+  margin: 5px 0 0 10px;
+}
+
+#solHaberBox {
+  width: 252px;
+  min-height: 100px;
+  border-bottom: #ffad05  solid 1px;
+  padding-bottom: 5px;
+  margin-top: 15px;
+}
+
+.solHaberText {
+  font-size: 12px;
+  font-family: Verdana, Geneva, sans-serif;
+  color: #ffad05 ;
+  line-height: 20px;
+  font-weight: bold;
+  margin-left: 3px;
+  margin-top: -3px;
+  float: left;
+}
+
+#solHaberImageBox{
+  float: left;
+  width: 165px;
+  height: 85px;
+}
+
+#solHaberTextBox{
+  float: left;
+  width: 185px;
+  height: 80px;
+}
+
+#haberioku{
+  width: 252px;
+  height: 20px;
+  clear: both;
+}
+
+#zebra{
+  width: 252px;
+  height: 20px;
+  clear: both;
+  background-color: #EBEBEB;
+  margin-top: 12px;
+}
+
+.haberiOkuText {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 11px;
+  color: #ffad05 ;
+  margin-left: 290px;
+}
+
+.zebrahaberiOkuText {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 11px;
+  color: #ffad05 ;
+  margin-left: -20px;
+  margin-top: 10px;
+  list-style-type: none;
+  list-style-image: url(../../images/bulletmor.png);
+}
+
+#solRakam {
+  width: 50px;
+  height: 55px;
+  border-right: #CCC solid 1px;
+  float: left;
+  font-weight: bold;
+  font-size: 24px;
+  margin-top: 15px;
+  text-align: center;
+}
+
+#solAciklama {
+  width: 139px;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 11px;
+  line-height: 15px;
+  float: left;
+  margin-top: 8px;
+  min-height: 50px;
+}
+
+#solAciklama a {
+  text-decoration: none;
+  color: #555666;
+  margin-top: 3px;
+}
+
+.rakam {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 25px;
+  text-align: left;
+  color: #ffad05 ;
+}
+
+.ay {
+  font-size: 11px;
+  text-align: left;
+  color: #666;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.etkinlikicerik {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 11px;
+  margin-left: 9px;
+  margin-top: 0px;
+  color: #666;
+}
+
+.etkinlikicerik {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 11px;
+  margin-left: 9px;
+  margin-top: 0px;
+  color: #666;
+}
+
+.tipografi00 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+
+.tipografi01 {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 30px;
+  color: #ffad05 ;
+  margin-left: 15px;
+  margin-top: -20px;
+  line-height: 35px;
+}
+
+.tipografi02 {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 24px;
+  margin-left: 15px;
+  margin-top: -20px;
+  color: #000000;
+}
+
+#block-block-1 {
+  margin: 0;
+  padding: 0;
+}
+
+#block-block-1 p {
+  padding: 0;
+  margin: 0;
+}
+
+#footerNavBar h2 {
+  color: #036;
+  font-size: 13px;
+  margin-left: 10px;
+}
+
+#footerNavBar ul {
+  padding: 0 0 0 20px;
+  text-align: left;
+  min-height: 120px;
+}
+
+#footerNavBar .content {
+  margin-left: 10px;
+  margin-right: 5px;
+}
+
+#block-views-yenietkinlik-block_1 .content, #block-views-yenihaber-block_1 .content, #block-views-yeniduyuru-block_1 .content {
+  margin: 0;
+  text-align: left;
+}
+
+#block-views-yenietkinlik-block_1 {
+  height: 289px;
+  min-height: 289px;
+  max-height: 289px;
+  overflow: hidden;
+}
+
+.etkinimg {
+  float: right;
+  margin: 10px 0px 0 0px;
+  clear: both;
+}
+
+#block-views-yenihaber-block_1 ul, #block-views-yeniduyuru-block_1 ul {
+  margin: 0 0 0 20px;
+  padding: 0 0 0 0px;
+}
+
+#block-views-yenihaber-block_1 li, #block-views-yeniduyuru-block_1 li {
+  width: 272px;
+  clear: both;
+  background: #EBEBEB url(../../images/bulletmor.png) 3px 8px no-repeat;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 11px;
+  color: #ffad05 ;
+  margin-left: -20px;
+  list-style-type: none;
+  list-style: none;
+  padding: 0 0 0 14px;
+}
+
+#block-views-yenihaber-block_1 li .views-field-title a, #block-views-yeniduyuru-block_1 li .views-field-title a {
+  color: #ffad05 ;
+  text-decoration: none;
+  padding: 2px;
+}
+
+#block-views-yenihaber-block_1 li .views-field-title a:hover, #block-views-yeniduyuru-block_1 li .views-field-title a:hover {
+  text-decoration: underline;
+}
+
+#block-views-yenihaber-block_1 .views-row-1 {
+  background: #FFCE83;
+}
+
+#block-block-27 .content {
+  margin: 0;
+     
+}
+
+#block-block-27 {}
+
+#block-quicktabs-3 .content {
+  margin: 0;
+}
+
+ul.quicktabs_tabs {
+  margin-top: -50px;
+  margin-bottom: 18px;
+  padding: 0;
+}
+
+ul.quicktabs_tabs li a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+ul.quicktabs_tabs li {
+  margin-right: 10px;
+  padding: 5px 10px;
+  background: #b9a1cc;
+  border-bottom: 4px solid #777777;
+  font-family: Verdana, Geneva, sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+  color: #999;
+  vertical-align: baseline;
+}
+
+ul.quicktabs_tabs li.active {
+  border-bottom: 4px solid #000000;
+  background: #036;
+}
+
+ul.quicktabs_tabs li:hover {
+  background: #036;
+}
+
+#block-views-yenihaber-block_1 div.view-content {
+  min-height: 277px;
+  height: 277px;
+  max-height: 277px;
+  overflow: hidden;
+}
+
+#block-views-yeniduyuru-block_1 div.view-content {
+  min-height: 277px;
+  height: 277px;
+  max-height: 277px;
+  overflow: hidden;
+}
+
+#block-nice_menus-1 div.content {
+  text-align: left;
+}
+
+div.links {
+  clear: both;
+  margin: 15px 10px;
+  border-top: 1px solid #e5e5e5;
+  padding: 10px 0;
+}
+
+
+
+
+
+#contentbox td a {
+  text-decoration: none;
+}
+
+div.taxonomy {
+  display: none;
+}
+
+
+#block-block-38 p {
+  margin: 0;
+  padding: 0;
+}
+
+#block-block-15 .content {
+  padding-top: -10px;
+}
+
+
+
+#block-block-44 .content,#block-block-45 .content {
+  margin: 0;
+}
+
+#edit-submit-TelefonRehberi{
+  color:white;
+  font-size:0px;
+  background-image:url(../../images/ara_s.png);
+  width:58px;
+  height:20px;
+margin-left:0;
+margin-top:12px;
+
+}
+
+
+#edit-field-soyad-value{
+  width:120px;
+}
+
+#edit-title{
+  width:130px;
+  font-size: 12px;
+}
+#edit-field-birim-value-many-to-one{
+  font-size: 12px;
+  width:250px;
+	
+}
+#beyazlikYazi {
+	color: #FFF;
+	font-family: Calibri;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+#altinaGolgeYapmak {
+border-bottom: #999 1px solid; 
+
+
+}
+	
+#ustCizgi {
+  width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:-10px;
+  position:static;
+  z-index:3;
+  
+  
+}
+
+
+#butonArkalik{
+  /* background:url(../../../images/main-bg.png) repeat-x;*/
+  
+   background:url(../images/main-bg.png) repeat-x;
+  width:100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:auto;
+  position:relative;
+  
+}
+
+#butonarkaPlan {
+	left:0px;
+	top:-50px;
+	width:100%;
+	min-height:40px;
+	background-color: #e3e8ef;
+	background-image: url(../images/main-bg.png) repeat-x;
+
+	/*visibility: visible;*/
+	 float: left;
+
+}
+
+#buttonlar {
+	left:2px;
+	top:0px;
+	width:844px;
+	min-height:40px;
+	/*border-bottom::url ('shadow.jpg') repeat-x;		*/	
+	border-bottom-color: #e3e8ef;
+	
+	
+	float: left;
+	position:relative;
+	z-index:3;
+}
+
+#duyurularinPaneli {
+	position:relative;
+	margin-left:0px;
+	margin-top:0px;
+	width:350px;
+	height:360px;
+	float: left;
+}
+#sagBilgilerPaneli {
+	position:relative;
+	margin-left:0px;
+	margin-top:0px;
+	width:627px;
+	min-height:360px;
+	float: right;
+}
+
+#asagiCizerekOl {
+	position:relative;
+	margin-left:auto;
+	margin-top:0px;
+	width:3px;
+	height:340px;
+	float:left;
+	background-color:#036;
+	left: auto;
+
+}
+#bannerAyarlamaca {
+	position:relative;
+	left:auto;
+	top:0px;
+	width:627px;
+	height:auto;
+	float:left;
+	
+}
+#asagiAcilanMenuler{
+	position:relative;
+	left:auto;
+	top:auto;
+	width:627px;
+	min-height:20;
+	margin-top:0px;
+	margin-left:0px;
+	float: left;
+}
+
+#hizliMenu{
+    /*background-image:url('../../images/alttarafingolgesi.png');
+    background-repeat:no-repeat;  */
+   
+	left:0px;
+	top:0px;
+	width:342px;
+	min-height: 200px;
+	margin-left: -15px;
+	margin-top: 0px;
+	float:left;
+
+}
+  
+
+#googleArama
+{	
+    
+    width: 850px;
+    min-height:1px;
+    margin-left: auto;
+	margin-right: auto;
+	margin-top:auto;
+
+}
+    
+#adresBannerEnAlt {
+  
+	position:relative;
+	left:auto;
+	top:auto;
+	width:850px;
+	height:auto;
+ 	 margin-left: 0px;
+ 	 margin-top: 0px;
+  	float: left;
+
+}
+#aramaVeTelefon {
+	position:relative;
+	width:350px;
+	min-height:20px;
+	margin-top:0px;
+	margin-left:0px;
+	background-repeat:repeat-x;
+	float:left;
+	
+	
+}
+.adresText {
+	
+  font-family:Verdana, Geneva, sans-serif;
+  font-style:normal;
+  font-size: 10px;
+  color: #fff;
+  text-align:right;
+  margin-top: 0px;
+  letter-spacing: 0.2mm;
+   
+}
+
+/* en altaki adres butonun renkleri için */
+
+adresText a{
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 8px;
+  color: #FFF;
+  text-align: center;
+  margin-top: 0px;
+  letter-spacing: 0.5mm;
+}
+a.adresText:link {
+	color: #FFF;
+	text-decoration: none;
+}
+a.adresText:visited {
+	color: #FFF;
+	text-decoration: none;
+}
+a.adresText:hover {
+text-decoration: none;
+	color: #bdbdbd;
+}
+a.adresText:active {
+text-decoration: none;
+	color: #bdbdbd;
+}
+
+/*acilir menu üzerindeki yazilarýn rengi için yazdým */
+
+#acilirMenuRenkler a {
+	font-family: Calibri;
+	font-size: 14px;
+	font-weight: bold;
+
+}
+
+#acilirMenuRenkler a:link {
+	color: #FFF;
+	text-decoration: none;
+}
+#acilirMenuRenkler a:visited {
+	color: #FFF;
+	text-decoration: none;
+}
+#acilirMenuRenkler a:hover {
+	color: #CCC;
+	text-decoration: none;
+}
+#acilirMenuRenkler a:active {
+	color: #CCC;
+	text-decoration: none;
+}
+#acilenTabloYapmak{
+  width: 848px;
+  min-height:-10px;
+  margin-left: 2px;
+  margin-top:0;
+  float: left;
+
+}
+#acilenaltGolgeyapmak{
+	  border-bottom: #999 1px solid; 
+  
+}
+#golgeYapmak{
+	
+	
+	margin-bottom:1px;
+	margin-right:1px;
+	border-bottom-color:#ccc;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-right-color:#ccc;
+	border-right-style:solid;
+	
+	
+}
+
+.tabMenuCercevelemek
+{
+
+
+ 
+ border-width:1px;
+    border-style:groove;
+    border-color:#000;
+
+
+}
+.satirCizgi
+{
+   border-width:1px;
+    border-style:groove;
+      border-bottom:#000;
+}
+
+#sayfadaHaberAcma{
+  width:640px;
+  min-height:50px;
+  margin-left: 0px;
+  margin-top:3px;
+  margin-right:5px;
+  float: left;
+
+}
+#kucukHizliMenu {
+  
+  width:195px;
+  min-height: 30px;
+  margin-left: 0px;
+  margin-top: 3px;
+  float:left;
+
+	
+}
+
+
+.sitedeLinkVerme a:link {
+	color: #069;
+	text-decoration: underline;
+}
+.sitedeLinkVerme a:visited {
+	color: #069;
+	text-decoration: underline;
+}
+.sitedeLinkVerme a:hover {
+	color: #000;
+	text-decoration: underline;
+}
+.sitedeLinkVerme a:active {
+	color: #F00;
+	text-decoration: underline;
+}
+.sitedeLinkVerme a {
+	font-size: 13px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+
+.c1 {background:#EAF4FF}
+.c1_top { background:url(../images/c1.gif) top repeat-x #FFF}
+.c1_left { background:url(../images/c1.gif) left top repeat-y #FFF}
+.c1_right {background:url(../images/c1.gif) right top repeat-y #FFF}
+.c1_bottom {background:url(../images/c1.gif) bottom repeat-x #FFF}
+
+
+.beyazBaslik {
+	color: #FFF;
+	font-size: 16px;
+	font-family: arial;
+	font-weight: bold;
+}
+.beyazYazi {
+	color: #FFF;
+	font-size: 16px;
+	font-family: arial;
+}
+.Yazisolda {
+	color: #000;
+	font-size: 16px;
+	font-family: arial;
+	text-align:right;
+}
+.tarihBaci
+{
+	font-family: arial;
+	font-size: 14px;
+	color: #069;
+	text-decoration: none;
+}

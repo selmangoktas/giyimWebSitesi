@@ -1,0 +1,182 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+
+<%@ Register src="butonlar.ascx" tagname="butonlar" tagprefix="uc2" %>
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+<title>...:MODA EVİ:...</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-9" /></head>
+
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+
+.beyazYazi {
+	font-size: 12px;
+	color: #FFF;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.siyahYazi {
+	font-size: 12px;
+	color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.altBeyazYazi {
+	font-size: 10px;
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+}
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+}
+body {
+	background-color: #0b316e;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	
+}
+a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #036;
+}
+a:link 
+{
+    	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+}
+a:visited 
+{
+    	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	color: #036;
+}
+a:hover 
+{
+        	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	color: #900;
+}
+a:active 
+{
+        	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	color: #666;
+}
+
+    -->
+
+
+</style>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27455415-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<body>
+   
+
+
+   <form id="form1" runat="server">
+
+   
+        
+        
+
+<div id="sayfayaOrtalama">
+
+<div id="bannner">
+
+
+<img alt="" src="images/banner.png" style="width: 980px; height: 159px" /></div>
+
+
+
+<div id="butonlar">
+
+
+    
+    
+    <uc2:butonlar ID="butonlar1" runat="server" />
+
+
+    
+    
+    </div>
+
+<div id="fotoBanner" >
+ 
+    
+        <%--<img alt="" src="images/fotoBanner.png" style="width: 980px; height: 306px" />--%>
+        
+      
+       
+ 
+<%--</div>--%>
+
+<%--<div id="solKisim">
+
+
+   
+</div>
+ <div id="siteAlan">--%>
+ 
+  
+ <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+  
+   
+    
+   
+     
+  
+   
+    
+   
+    </asp:ContentPlaceHolder>
+ 
+ </div>
+
+
+
+
+  <div id="altBanner" >
+  
+<%--<span class="enAltYazi"> SoRusT <---></span>--%>
+<span class="enaltLink">  <a href="mailto:sorust@hotmail.com">Webmaster</a></span> 
+</div>
+
+
+</div>   
+              
+        
+        
+</form>
+</body>
+</html>

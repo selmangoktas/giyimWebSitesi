@@ -1,0 +1,79 @@
+*
+.slmn_main {
+	WIDTH: 350px; BACKGROUND: url('hizliMenu/slmn_bg.jpg') repeat-x 0px 0px; 
+HEIGHT: 241px; border-bottom: #036 0px solid; background-position:right;
+}
+.slmn_ayrim {
+	MARGIN: 0px 0px 0px 0px; WIDTH: 1px; BACKGROUND: url('hizliMenu/slmn_ayrim.jpg') no-repeat 0px 0px; 
+FLOAT: left; HEIGHT: 45px; CLEAR: right
+}
+A.slmn_edo {
+	MARGIN: 11px 5px 0px 11px; WIDTH: 100px; BACKGROUND: url('hizliMenu/eduroam.jpg') no-repeat 0px 0px; 
+FLOAT: left; HEIGHT: 51px; CLEAR: right
+}
+A.slmn_edo:hover {
+	BACKGROUND-POSITION: 0px -51px
+}
+A.slmn_mail {
+	MARGIN: 11px 5px 0px 11px; WIDTH: 100px; BACKGROUND: url('hizliMenu/mail.jpg') no-repeat 0px 0px; 
+FLOAT: left; HEIGHT: 51px; CLEAR: right
+}
+A.slmn_mail:hover {
+	BACKGROUND-POSITION: 0px -51px
+}
+A.slmn_kutuphane {
+	MARGIN: 11px 5px 0px 11px; WIDTH:100px; BACKGROUND: url('hizliMenu/kutuphane.jpg') no-repeat 0px 0px; 
+FLOAT: left; HEIGHT: 51px; CLEAR: right
+}
+A.slmn_kutuphane:hover {
+	BACKGROUND-POSITION: 0px -51px
+}
+A.slmn_akTakvim {
+	MARGIN: 11px -5px 0px 11px; WIDTH: 100px; BACKGROUND: url('hizliMenu/akTakvim.jpg') no-repeat 0px 0px; 
+FLOAT: left; HEIGHT: 51px; CLEAR: right
+}
+A.slmn_akTakvim:hover {
+	BACKGROUND-POSITION: 0px -51px
+}
+A.slmn_telefon {
+	MARGIN: 11px 5px 0px 11px; WIDTH: 100px; BACKGROUND: url('hizliMenu/telefon.jpg') no-repeat 0px 0px; 
+FLOAT: left; HEIGHT: 51px; CLEAR: right
+}
+A.slmn_telefon:hover {
+	BACKGROUND-POSITION: 0px -51px
+}
+A.slmn_akbis {
+		MARGIN: 0px 0px 0px 0px; WIDTH: 90px; BACKGROUND: url('hizliMenu/akademikOzgecmis.png') no-repeat 0px 0px; 
+FLOAT: left; HEIGHT: 51px; CLEAR: right
+}
+A.slmn_akbis:hover {
+	WIDTH: 950px; BACKGROUND: url('hizliMenu/akademikOzgecmis.png') no-repeat 0px 0px; 
+FLOAT: left; HEIGHT: 51px; CLEAR: right
+}
+A.slmn_daireBaskanliklari {
+	MARGIN: 11px 15px 0px 11px; WIDTH: 120px; BACKGROUND: url('hizliMenu/akademikOzgecmis.png') no-repeat 0px 0px; 
+FLOAT: left; HEIGHT: 51px; CLEAR: right
+}
+A.slmn_daireBaskanliklari:hover {
+	BACKGROUND-POSITION: 0px -51px
+}
+A.slmn_posta {
+	MARGIN: 11px 5px 0px 11px; WIDTH: 100px; BACKGROUND: url('hizliMenu/slmn_posta.jpg') no-repeat 0px 0px; 
+FLOAT: left; HEIGHT: 51px; CLEAR: right
+}
+A.slmn_posta:hover {
+	BACKGROUND-POSITION: 0px -51px
+}
+
+
+a.yaziGetir {
+	display: block;
+	width: 40px;
+	color: #000;
+	position:relative;
+	top: 0px;
+	float:left;
+	text-align: center;
+	text-decoration: none;
+	font: bold 12px Arial, Helvetica, sans-serif;
+}
